@@ -151,7 +151,6 @@
                           $passRow=mysqli_fetch_assoc($passResult);
                           $email = $passRow['email'];
                           $phone = $passRow['phone'];
-                          
                       ?>
                       <form action="partials/_manageContactUs.php" method="POST">
                         <div class="row">
@@ -216,7 +215,7 @@
                     $contact1 = $row['contact1'];
                     $contact2 = $row['contact2'];
 
-                    echo '<div class="col-lg-4 bg-image" style="background-image:url(img/contact.jpg)">
+                    echo '<div class="col-lg-4 bg-image" style="background-image:url(img/pizza.jpg;)">
                           <div class="detail-box p-4">
                             <h5 class="text-white font-weight-light mb-3">ADDRESS</h5>
                             <p class="text-white op-7">' .$address. '</p>

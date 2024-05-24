@@ -201,9 +201,7 @@
                   <h4>Darshan Parmar</h4>
                 </div>
                 <div class="social">
-                  <a href="https://twitter.com/darshankparmar" target="_blank"><i class="icofont-twitter"></i></a>
-                  <a href="https://github.com/darshankparmar" target="_blank"><i class="fab fa-github"></i></a>
-                  <a href="https://www.linkedin.com/in/darshankparmar/" target="_blank"><i class="icofont-linkedin" target="_blank"></i></a>
+                  <a href="https://github.com/mudjakils" target="_blank"><i class="fab fa-github"></i></a>
                 </div>
               </div>
             </div>
